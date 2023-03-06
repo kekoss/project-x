@@ -1,0 +1,28 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Andrii Ukrainets fe_16_online",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekoss/project-x.git"
+  },
+  "author": "andriy2359@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekoss/project-x/issues"
+  },
+  "homepage": "https://github.com/kekoss/project-x#readme",
+  "devDependencies": {
+    "browser-sync": "^2.28.3",
+    "eslint": "^8.35.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
